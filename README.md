@@ -7,6 +7,9 @@ Welcome to my GitHub! I’m a mature data science student at **Northumbria Unive
 ---
 
 ### **🔮 What I’m Working On:**
+- **100 days of code**: Making sure I have a solid grip on all the foundational stuff before diving deeper into my planned projects.
+- **Data Science Degree**: Working on staying on track to graduate in 2027 with a first class degree :)
+### **Planning on working on more in the near future**:
 - **herbs_and_hexes**: A public SQL project where I manage ingredients and potion recipes for a fantasy potion shop. It’s my way of practicing complex SQL queries, triggers, and stored procedures, but with a bit of magic thrown in!
 - **scrying-sentiments**: This private project uses NLP to analyze the emotional arcs of stories, like peering into a crystal ball to unearth hidden emotions. 
 - **cryptid-cluster**: A private project where I’m classifying supernatural creatures—think of it as monster detection meets machine learning.
@@ -15,21 +18,17 @@ Welcome to my GitHub! I’m a mature data science student at **Northumbria Unive
 
 ---
 
-### **🛠️ What I Can Do, kind of, almost, getting there:**
+### **📚 What I’m Learning**:
 - **Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, Matplotlib
 - **Database Management**: MySQL, PostgreSQL
 - **Machine Learning**: Scikit-Learn, NLP with TextBlob
 - **Cloud & Automation**: AWS, Google Cloud, API Integration
-- **Azure Qualifications**: DP-900 (Azure Data Fundamentals) and AI-900 (Azure AI Fundamentals)
----
-
-### **📚 What I’m Learning**:
-I’m still wrapping my head around the basics, but I’m aiming to get deeper into:
 - **Advanced Machine Learning**: Especially clustering and regression.
 - **Time Series Analysis**: So I can make more predictions (with or without magic).
 - **Cloud Computing**: Because deploying data science applications is a whole new world.
-
+---
+- **Azure Qualifications**: DP-900 (Azure Data Fundamentals) and AI-900 (Azure AI Fundamentals)
 ---
 
 ### **💬 Let’s Chat!**
