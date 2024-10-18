@@ -7,14 +7,13 @@ Welcome to my GitHub! I’m a mature data science student at **Northumbria Unive
 ---
 
 ### **🔮 What I’m Working On:**
-- **100 days of code**: Making sure I have a solid grip on all the foundational stuff before diving deeper into my planned projects.
+- **enchanters-almanac**: This is my personal automation project. I’m using APIs and time series analysis to automate weather-based decisions—because even laundry should have a touch of magic.
 - **Data Science Degree**: Working on staying on track to graduate in 2027 with a first class degree :)
 ### **Planning on working on more in the near future**:
 - **herbs_and_hexes**: A public SQL project where I manage ingredients and potion recipes for a fantasy potion shop. It’s my way of practicing complex SQL queries, triggers, and stored procedures, but with a bit of magic thrown in!
 - **scrying-sentiments**: This private project uses NLP to analyze the emotional arcs of stories, like peering into a crystal ball to unearth hidden emotions. 
 - **cryptid-cluster**: A private project where I’m classifying supernatural creatures—think of it as monster detection meets machine learning.
 - **creature-watchtower**: A private project where I keep an eye on mystical population shifts (dragons, unicorns, you name it). It’s all about building a cloud-based data pipeline.
-- **enchanters-almanac**: This is my personal automation project. I’m using APIs and time series analysis to automate weather-based decisions—because even laundry should have a touch of magic.
 
 ---
 
